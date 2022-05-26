@@ -1,0 +1,264 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Justin Cheng",
+        "label": "Product Designer",
+        "image": "",
+        "email": "justin.cheng.0509@gmail.com",
+        "phone": "",
+        "url": "YusiCheng.me",
+        "summary": "YusiCheng.me \nUX designer with a demonstrated history of working in the User Experience Design industry. Skilled in Sketch, InVision, Adobe Premiere, Adobe Audition, Instagram, Sketching, and Java. Strong research professional with a Masters focused in Information Systems from Northeastern University. ",
+        "location": {
+            "countryCode": "US",
+            "address": "United States"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "ACoAABIeZPgBcXmGW2vo-kkJRSPuIjGvMoys37M",
+                "url": "https://www.linkedin.com/in/ACoAABIeZPgBcXmGW2vo-kkJRSPuIjGvMoys37M/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Chia Project",
+            "position": "Junior Product Designer",
+            "startDate": "2022-02-28",
+            "endDate": "",
+            "highlights": [],
+            "summary": "Worked on the NFT Offer flow and design system for Chia client\n\nDefined the new onboarding flow and settings menu during the full node and light wallet merge\n\nDesigned the fee estimator component and conducted related user research\n\nProposed early stage multi signature security feature",
+            "url": "https://www.linkedin.com/company/18673321",
+            "location": "Remote"
+        },
+        {
+            "name": "Chia Project",
+            "position": "Technical Community Manager",
+            "startDate": "2021-08-31",
+            "endDate": "2022-05-31",
+            "highlights": [],
+            "summary": "Build and maintained a Chinese community on official social media and messaging services used by Chia Network Inc.\n\nProvided technical support in technical backlogs issued by Chinese community member\n\nRecruit and manage volunteer community moderators to provide 24x7 technical support in Linux and Windows client\n\nRepresent the Chinese point of view as internal insight for the development and marketing process within Chia",
+            "url": "https://www.linkedin.com/company/18673321",
+            "location": "Sunnyvale, California, United States"
+        },
+        {
+            "name": "Immortal Identity",
+            "position": "UX Designer",
+            "startDate": "2020-01-31",
+            "endDate": "2020-08-31",
+            "highlights": [],
+            "summary": "• Created initial web prototype, including wireframes, flowcharts, prototypes, and initial visual mockups\n• Understand the behavior and motivations of our users through analytics data, competitive analysis, interviews, A / B testing, and support from dedicated research member\n• Collaborate with end users, product management and engineering teams in developing compelling visual communication deliverables and specifications\n• Contribute to the development, documentation and communication of Visual design guidelines, patterns, and libraries",
+            "url": "",
+            "location": "Greater Seattle Area"
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Northeastern University",
+            "area": "Information Systems",
+            "studyType": "Masters",
+            "startDate": "2018-12-31",
+            "endDate": "2020-12-31",
+            "score": "",
+            "courses": [
+                "Info 6215 - Business Analysis and Digital product"
+            ]
+        },
+        {
+            "institution": "George Mason University",
+            "area": "Communication and Media Studies",
+            "studyType": "Bachelor's degree",
+            "startDate": "2015-12-31",
+            "endDate": "2017-06-30",
+            "score": "",
+            "courses": [
+                "Comm 208 - Introduction to Media Production ",
+                "Comm 157 - Digital Media Workshop",
+                "SWE 205 - Software Usability"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Dean's List ",
+            "date": "2016-05-31",
+            "awarder": null,
+            "summary": "Dean's list from Communication Department in Spring 2016"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Master of Science in Information Systems",
+            "issuer": "Northeastern University",
+            "startDate": "2020-12-31",
+            "url": "https://prod-web.neu.edu/wasapp/OnlineDiplomas/home/validate"
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "User Experience (UX)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Sketch",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "User Research",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Interaction Design",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Linux",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Instagram",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Adobe Audition",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Usability",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Tumblr",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "mac os x",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "HTML",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Invision",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Java",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Balsamiq",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Canon DSLR",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Adobe Premiere Pro",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Microsoft Office",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Windows",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Color Theory",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Facebook",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Adobe Photoshop",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Axure RP",
+            "level": "",
+            "keywords": []
+        }
+    ],
+    "languages": [
+        {
+            "fluency": "Native Speaker",
+            "language": "Chinese"
+        },
+        {
+            "fluency": "Native Speaker",
+            "language": "English"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+        {
+            "name": "Hydrade Bottle",
+            "startDate": "2019-03-31",
+            "summary": null,
+            "url": null,
+            "endDate": "2019-04-30"
+        },
+        {
+            "name": "Instagram Redesign ",
+            "startDate": "2019-01-31",
+            "summary": "Instagram Redesign Project",
+            "url": "https://yusicheng.me/#/instagram/",
+            "endDate": "2019-03-31"
+        },
+        {
+            "name": "Road Traveler",
+            "startDate": "2018-08-31",
+            "summary": "Product requirement & UX design for roadtraveler one stop road trip application.",
+            "url": "https://yusicheng.me/#/roadtraveler/",
+            "endDate": "2018-12-31"
+        },
+        {
+            "name": "BuzzCream",
+            "startDate": "2017-01-31",
+            "summary": "Product requirements & web design for BuzzCream product website. ",
+            "url": "https://yusicheng.me/#/buzzcream/",
+            "endDate": "2017-05-31"
+        },
+        {
+            "name": "JL Water",
+            "startDate": "2016-11-30",
+            "summary": "Introduction to Media Production project, Dec 2016: Single-handedly produced, wrote, shot and edited a 30-second commercial for an assigned product",
+            "url": "https://youtu.be/oReFifr2OYY",
+            "endDate": "2016-12-31"
+        }
+    ],
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+}
